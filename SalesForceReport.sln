@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesForceReport", "SalesForceReport\SalesForceReport.csproj", "{FD955903-50CC-483A-9278-D20DAF0FA2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD955903-50CC-483A-9278-D20DAF0FA2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD955903-50CC-483A-9278-D20DAF0FA2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD955903-50CC-483A-9278-D20DAF0FA2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD955903-50CC-483A-9278-D20DAF0FA2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F19AD6-3FD2-44DE-BB87-25CE53047950}
+	EndGlobalSection
+EndGlobal
